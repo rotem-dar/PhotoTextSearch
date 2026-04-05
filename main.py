@@ -18,7 +18,7 @@ elif sys.argv[1] == '-h':
           "That's it! no further arguments accepted.\n"
           "Note: Each time you run the program, the output_folder is erased.\n"
           "If you want to keep it, you should change its name before running the "
-          "program again")
+          "program again.")
     sys.exit(1)
 else:
     keyword_search = sys.argv[1]
