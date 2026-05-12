@@ -16,7 +16,7 @@ elif sys.argv[1] == '-h':
     print("Input your photos inside 'input_images' folder, then:\n"
           "Usage: python main.py <search_keyword>\n"
           "That's it! no further arguments accepted.\n"
-          "Note: Each time you run the program, the output_folder is erased.\n"
+          "Note: Each time you run the program, the output folder is erased.\n"
           "If you want to keep it, you should change its name before running the "
           "program again.")
     sys.exit(1)
